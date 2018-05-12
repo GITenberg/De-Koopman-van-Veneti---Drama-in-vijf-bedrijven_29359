@@ -1,0 +1,42 @@
+_repo: De-Koopman-van-Veneti---Drama-in-vijf-bedrijven_29359
+_version: 0.1.0
+alternative_title: The Merchant of Venice. Dutch
+contributor:
+  translator:
+    agent_name: Koster, Edward B. (Edward Bernard)
+    alias: Koster, E. B. (Edward Bernard)
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '33869'
+    url: http://www.gutenberg.org/2009/agents/33869
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2009-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29359'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Italy -- Drama'
+- !lcc 'PR'
+- !lcsh 'Venice (Italy) -- Drama'
+- !lcsh 'Comedies'
+- !lcsh 'Moneylenders -- Drama'
+title: 'De Koopman van Venetië: Drama in vijf bedrijven'
+url: http://www.gutenberg.org/ebooks/29359
